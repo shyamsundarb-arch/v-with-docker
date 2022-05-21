@@ -17,7 +17,7 @@ IDE of choice (VS Code, Atom, Notepad++, (n)vim)
 git clone 
 ```
 
-### To Run it locally
+### To Run the code locally
 
 ```bash
 #!/bin/bash
